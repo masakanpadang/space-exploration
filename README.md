@@ -12,4 +12,14 @@ Everyone with a smartphone, at least ever once open this app. In my opinion, no 
 
 Some one-of-a-kind tools to make money from google product. To sign up for AdSense, there will be a selection first. So, to make money from AdSense is actually not easy as imagined.
 
+3. **Google Assistant**
+
+4. **Blogger**
+
+5. **Cardboard**
+
+6. **Google Fonts**
+
+7. **GMail**
+
 #this respitory will be continously updated
